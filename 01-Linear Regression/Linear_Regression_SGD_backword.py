@@ -2,7 +2,7 @@
 """
 @author:  Jiawy
 @contact: jiawenyu2021@163.com
-@commit: 随机梯度下降
+@commit: 随机梯度下降+反向传播函数的应用
 """
 
 import matplotlib.pyplot as plt
