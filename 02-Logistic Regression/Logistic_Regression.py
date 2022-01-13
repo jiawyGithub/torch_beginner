@@ -1,7 +1,8 @@
 # encoding: utf-8
 """
-@author:  liaoxingyu
-@contact: sherlockliao01@gmail.com
+@author:  Jiawy
+@contact: jiawenyu2021@163.com
+@commit: 在FashionMNIST数据集上实现逻辑斯蒂回归
 """
 
 import time
